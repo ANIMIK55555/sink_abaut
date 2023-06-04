@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: crimson;
+    font-size: 80px;
+}
+
+header {
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+b {
+    color: red;
+    text-align: center;
+}
+
+p {
+    font-size: 41px;
+}
